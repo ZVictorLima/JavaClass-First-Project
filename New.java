@@ -1,9 +1,7 @@
-Public class New{
+public class New{
 
-public void main (){
-
-  System.out.println("hello");
-
+public static void main(String[] args) {
+  System.out.println("hello Everyone, My name is MArkplyer");
 }
 
 
